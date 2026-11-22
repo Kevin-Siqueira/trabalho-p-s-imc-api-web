@@ -70,3 +70,6 @@ Resposta de sucesso (200 OK):
   "unidade": "kg/m2"
 }
 ```
+## Documentação Técnica
+
+Para detalhes sobre arquitetura, regras de negócio, contrato dos endpoints e cenários de teste, acesse a [Documentação Técnica](docs/DOCUMENTACAO_TECNICA.md).
